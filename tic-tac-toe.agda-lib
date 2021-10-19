@@ -1,0 +1,3 @@
+name: tic-tac-toe
+depend: standard-library
+include: src/
